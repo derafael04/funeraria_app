@@ -1,6 +1,6 @@
 # funeraria_app
 
-A new Flutter application.
+Sistema Funerário feiti em Flutter.
 
 ## Getting Started
 
