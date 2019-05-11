@@ -1,6 +1,6 @@
 # funeraria_app
 
-Sistema Funerário feiti em Flutter.
+Sistema Funerário feito em Flutter.
 
 ## Getting Started
 
